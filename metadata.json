@@ -1,0 +1,7 @@
+{
+  "name": "StyleAI Studio",
+  "description": "Transform your look with AI-generated fashion styles. Upload a selfie and get 9 centered portraits featuring different trendy outfits.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
